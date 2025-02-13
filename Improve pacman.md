@@ -1,7 +1,10 @@
 ---
 modified: 2025-02-13T11:34:32+01:00
 created: 2025-02-13T11:27:55+01:00
-tags: linux, arch, pacman
+tags:
+  - linux
+  - arch
+  - pacman
 ---
 
 Edit `/etc/pacman.conf` and uncomment or add the following lines:
